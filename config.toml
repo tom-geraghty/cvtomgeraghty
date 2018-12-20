@@ -1,0 +1,4 @@
+baseURL = "http://cv.tomgeraghty.co.uk/"
+languageCode = "en-us"
+title = "Tom Geraghty"
+theme = "hallo"
