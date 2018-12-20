@@ -1,0 +1,17 @@
+---
+label: 1st template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: text_area
+  label: Text area
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
